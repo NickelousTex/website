@@ -1,2 +1,2 @@
-# website
-Personal Website Repo
+# Personal Website
+A repo for my personal website
